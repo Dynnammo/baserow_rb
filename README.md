@@ -34,7 +34,7 @@ Aim of this gem is to provide an **easy and reliable way to use Baserow in a Rub
 
 As instance, if you have a database with tables `Articles`, `Customers` and `Sells`, it should provide the following Ruby classes with attributes corresponding to their columns
 ```ruby
-TOKEN = "myprivatetoken
+TOKEN = "myprivatetoken"
 
 bsr = Baserow.new(TOKEN) # generate a wrapper that can be used elsewhere to give access to all data 
 
