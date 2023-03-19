@@ -1,4 +1,5 @@
 # BaserowRb
+[![License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)   
 
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/baserow_rb`. To experiment with that code, run `bin/console` for an interactive prompt.
